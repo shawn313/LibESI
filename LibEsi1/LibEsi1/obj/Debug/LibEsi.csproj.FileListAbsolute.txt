@@ -1,0 +1,4 @@
+C:\Users\Shawn\AppData\Local\Temporary Projects\LibEsi\bin\Debug\LibEsi.dll
+C:\Users\Shawn\AppData\Local\Temporary Projects\LibEsi\bin\Debug\LibEsi.pdb
+C:\Users\Shawn\AppData\Local\Temporary Projects\LibEsi\obj\Debug\LibEsi.dll
+C:\Users\Shawn\AppData\Local\Temporary Projects\LibEsi\obj\Debug\LibEsi.pdb
